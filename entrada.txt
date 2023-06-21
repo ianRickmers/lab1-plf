@@ -1,0 +1,25 @@
+pi () 
+=
+|
+x
+:
+/
+^
+-
++
+;
+4.32113433215E-12
+_ad3;if ( _ad3 = fd)
+23E-2
+2.3
+23
+ln log
+int inter
+PROGRAM
+round frac fix 
+int
+sgn
+exp
+cur
+sqr
+mod
